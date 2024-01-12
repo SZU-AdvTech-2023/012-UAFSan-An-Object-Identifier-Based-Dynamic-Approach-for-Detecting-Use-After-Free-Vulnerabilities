@@ -1,0 +1,7 @@
+@inproceedings{REPO012,
+    author = "Gui, Binfa and Song, Wei and Huang, Jeff",
+    booktitle = "Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis",
+    pages = "309--321",
+    title = "{UAFSan: An Object-Identifier-Based Dynamic Approach for Detecting Use-After-Free Vulnerabilities}",
+    year = "2021"
+}
